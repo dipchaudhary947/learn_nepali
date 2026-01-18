@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2363929756",
+    "project_id": "learnnepali-cce3b",
+    "storage_bucket": "learnnepali-cce3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2363929756:android:59dd66d8a439bb6b5a2959",
+        "android_client_info": {
+          "package_name": "com.example.learn_nepali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFvTJc1P85pkJtTnLVKC2Tp2BAL9rEMVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,119 @@
+{
+    "appWelcomeTitle": "Namaste🙏 Learn Nepali...!",
+    "@appWelcomeTitle": {
+        "description": "Title of the application shown in the app bar"
+    },
+    "appTitle": "Numbers, Vowels, Consonants & Phrases",
+    "@appTitle": {
+        "description": "Title of the application shown in the app"
+    },
+    "appDescription": "Discover the basics of Nepali with simple lessons on numbers, letters, and phrases. Perfect for beginners who want to start learning quickly!",
+    "@appDescription": {
+        "description": "This is a description of Learn Nepali App"
+    },
+    "startLearnBtn": "START TO LEARN NEPALI",
+    "@startLearnBtn": {
+        "description": "Button text to begin learning Nepali Phrases"
+    },
+    "numbers": "Numbers",
+    "@numbers": {
+        "description": "Label for the numbers screen where saved words are shown"
+    },
+    "nepaliNumbers": "Nepali Numbers",
+    "@nepaliNumbers": {
+        "description": "Title for the Nepali Numbers screen where saved words are shown"
+    },
+    "consonants": "Consonants",
+    "@consonants": {
+        "description": "Label for the consonants screen where saved words are shown"
+    },
+    "nepaliConsonants": "Nepali Consonants",
+    "@nepaliConsonants": {
+        "description": "Title for the Nepali Consonants screen where saved words are shown"
+    },
+    "vowels": "Vowels",
+    "@vowels": {
+        "description": "Label for the vowels screen where saved words are shown"
+    },
+    "nepaliVowels": "Nepali Vowels",
+    "@nepaliVowels": {
+        "description": "Title for the Nepali Vowels screen where saved words are shown"
+    },
+    "phrases": "Phrases",
+    "@phrases": {
+        "description": "Label for the phrases screen where saved words are shown"
+    },
+    "nepaliPhrases": "Phrases",
+    "@nepaliPhrases": {
+        "description": "Title for the Phrases And Latters screen where saved Categories words are shown with images"
+    },
+    "noCategorySelected": "No category selected",
+    "@noCategorySelected": {
+        "description": "Message shown when the user has not selected any category"
+    },
+    "pronunciation": "Pronunciation:",
+    "@pronunciation": {
+        "description": "Label shown before the phonetic pronunciation of a Nepali word"
+    },
+    "meaning": "Meaning:",
+    "@meaning": {
+        "description": "Label shown before the meaning or translation of a Nepali word"
+    },
+    "thaiMeaning": "Thai Meaning:",
+    "@thaiMeaning": {
+        "description": "Label shown before the Thai translation of a Nepali word"
+    },
+    "removedFromFavorites": "Removed from favorites ❌",
+    "@removedFromFavorites": {
+        "description": "Message shown when a word or category is removed from the favorites list"
+    },
+    "addedToFavorites": "Added to favorites ⭐",
+    "@addedToFavorites": {
+        "description": "Message shown when a word or category is added to the favorites list"
+    },
+    "search": "Search",
+    "@search": {
+        "description": "Label for the search screen where users can find Nepali words"
+    },
+    "searchHintText": "Search Nepali...",
+    "@searchHintText": {
+        "description": "Hint text shown inside the search input field to prompt users to search Nepali words"
+    },
+    "searchNotFound": "No matching results for '{query}'",
+    "@searchNotFound": {
+        "description": "Message shown when a user's search returns no results",
+        "placeholders": {
+            "query": {}
+        }
+    },
+    "favorites": "Favorites",
+    "@favorites": {
+        "description": "Label for the favorites screen where saved words"
+    },
+    "noFavorites": "No favorites yet",
+    "@noFavorites": {
+        "description": "Message shown when the user has not added any words or categories to favorites"
+    },
+    "chooseLanguage": "Choose Your Language 🌏",
+    "@chooseLanguage": {
+        "description": "Title shown on the language selection screen"
+    },
+    "languageTitle": "English • Nepali • Thai",
+    "@languageTitle": {
+        "description": "language Title showing the list of supported languages in the app"
+    },
+    "languageSubtitle": "Select your preferred language for meanings and translations while learning Nepali.",
+    "@languageSubtitle": {
+        "description": "Subtitle shown on the language selection screen explaining what the language choice affects"
+    },
+    "selectLanguageButton": "SELECT YOUR LANGUAGE",
+    "@selectLanguageButton": {
+        "description": "Button text used to open the language selection screen"
+    },
+
+  "selectLanguage": "Select Your Language",
+  "@selectLanguage": {
+    "description": "Text shown to prompt the user to choose a language"
+  }
+}
+

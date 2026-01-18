@@ -1,0 +1,117 @@
+{
+  "appWelcomeTitle": "สวัสดี 🙏 เรียนภาษาเนปาลี...!",
+  "@appWelcomeTitle": {
+    "description": "ชื่อแอปที่แสดงบนแถบด้านบน"
+  },
+  "appTitle": "ตัวเลข สระ พยัญชนะ และวลี",
+  "@appTitle": {
+    "description": "ชื่อแอปที่แสดงในแอป"
+  },
+  "appDescription": "เรียนรู้พื้นฐานภาษาเนปาลีด้วยบทเรียนง่าย ๆ เกี่ยวกับตัวเลข ตัวอักษร และวลี เหมาะสำหรับผู้เริ่มต้นที่ต้องการเรียนรู้อย่างรวดเร็ว!",
+  "@appDescription": {
+    "description": "คำอธิบายของแอป Learn Nepali"
+  },
+  "startLearnBtn": "เริ่มเรียนภาษาเนปาลี",
+  "@startLearnBtn": {
+    "description": "ข้อความปุ่มเพื่อเริ่มเรียนภาษาเนปาลี"
+  },
+  "numbers": "ตัวเลข",
+  "@numbers": {
+    "description": "ป้ายกำกับสำหรับหน้าตัวเลข"
+  },
+  "nepaliNumbers": "ตัวเลขภาษาเนปาลี",
+  "@nepaliNumbers": {
+    "description": "ชื่อหน้าจอสำหรับตัวเลขภาษาเนปาลี"
+  },
+  "consonants": "พยัญชนะ",
+  "@consonants": {
+    "description": "ป้ายกำกับสำหรับหน้าพยัญชนะ"
+  },
+  "nepaliConsonants": "พยัญชนะภาษาเนปาลี",
+  "@nepaliConsonants": {
+    "description": "ชื่อหน้าจอสำหรับพยัญชนะภาษาเนปาลี"
+  },
+  "vowels": "สระ",
+  "@vowels": {
+    "description": "ป้ายกำกับสำหรับหน้าสระ"
+  },
+  "nepaliVowels": "สระภาษาเนปาลี",
+  "@nepaliVowels": {
+    "description": "ชื่อหน้าจอสำหรับสระภาษาเนปาลี"
+  },
+  "phrases": "วลี",
+  "@phrases": {
+    "description": "ป้ายกำกับสำหรับหน้าวลี"
+  },
+  "nepaliPhrases": "วลีภาษาเนปาลี",
+  "@nepaliPhrases": {
+    "description": "ชื่อหน้าจอสำหรับวลีภาษาเนปาลี"
+  },
+  "noCategorySelected": "ยังไม่ได้เลือกหมวดหมู่",
+  "@noCategorySelected": {
+    "description": "ข้อความเมื่อผู้ใช้ยังไม่ได้เลือกหมวดหมู่"
+  },
+  "pronunciation": "การออกเสียง:",
+  "@pronunciation": {
+    "description": "ป้ายกำกับก่อนการออกเสียงของคำภาษาเนปาลี"
+  },
+  "meaning": "ความหมาย:",
+  "@meaning": {
+    "description": "ป้ายกำกับก่อนความหมายของคำภาษาเนปาลี"
+  },
+  "thaiMeaning": "ความหมายภาษาไทย:",
+  "@thaiMeaning": {
+    "description": "ป้ายกำกับก่อนความหมายภาษาไทยของคำภาษาเนปาลี"
+  },
+  "removedFromFavorites": "ลบออกจากรายการโปรดแล้ว ❌",
+  "@removedFromFavorites": {
+    "description": "ข้อความเมื่อรายการถูกลบออกจากรายการโปรด"
+  },
+  "addedToFavorites": "เพิ่มในรายการโปรดแล้ว ⭐",
+  "@addedToFavorites": {
+    "description": "ข้อความเมื่อรายการถูกเพิ่มในรายการโปรด"
+  },
+  "search": "ค้นหา",
+  "@search": {
+    "description": "ป้ายกำกับหน้าค้นหา"
+  },
+  "searchHintText": "ค้นหาภาษาเนปาลี...",
+  "@searchHintText": {
+    "description": "ข้อความตัวอย่างในช่องค้นหา"
+  },
+  "searchNotFound": "ไม่พบผลลัพธ์สำหรับ '{query}'",
+  "@searchNotFound": {
+    "description": "ข้อความที่แสดงเมื่อการค้นหาไม่พบผลลัพธ์",
+    "placeholders": {
+      "query": {}
+    }
+  },
+  "favorites": "รายการโปรด",
+  "@favorites": {
+    "description": "หน้าจอรายการคำที่บันทึกไว้"
+  },
+  "noFavorites": "ยังไม่มีรายการโปรด",
+  "@noFavorites": {
+    "description": "ข้อความเมื่อยังไม่มีรายการโปรด"
+  },
+  "chooseLanguage": "เลือกภาษา 🌏",
+  "@chooseLanguage": {
+    "description": "ชื่อหน้าจอเลือกภาษา"
+  },
+  "languageTitle": "อังกฤษ • เนปาลี • ไทย",
+  "@languageTitle": {
+    "description": "รายการภาษาที่แอปรองรับ"
+  },
+  "languageSubtitle": "เลือกภาษาที่ต้องการสำหรับความหมายและคำแปลขณะเรียนภาษาเนปาลี",
+  "@languageSubtitle": {
+    "description": "คำอธิบายการเลือกภาษา"
+  },
+  "selectLanguageButton": "เลือกภาษา",
+  "@selectLanguageButton": {
+    "description": "ปุ่มเปิดหน้าจอเลือกภาษา"
+  },
+  "selectLanguage": "เลือกภาษา",
+  "@selectLanguage": {
+    "description": "ข้อความที่แสดงเพื่อให้ผู้ใช้เลือกภาษา"
+  }
+}
